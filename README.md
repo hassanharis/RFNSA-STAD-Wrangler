@@ -9,7 +9,8 @@ A Python tool to wrangle antenna details from RFNSA.com for populating into EME 
 
 ### Add following antennas to Prox5
 
-![image](https://user-images.githubusercontent.com/45975234/235357081-7659d954-c14f-4359-8595-09ff0bddc910.png)
+![image](https://user-images.githubusercontent.com/45975234/235357719-79823532-c609-44f7-bf1c-d5261d48bf37.png)
+
 
 ### Set height, bearing, and MDT to antennas 
 

@@ -2,7 +2,7 @@
 
 # RFNSA
 
-A Python tool to wrangle antenna details from RFNSA.com for populating into EME compliance software 
+A Python tool to wrangle antenna details from RFNSA STAD Table for easier and faster populating into EME compliance software with accuracy and transparency
 
 
 ## Example Input & Output

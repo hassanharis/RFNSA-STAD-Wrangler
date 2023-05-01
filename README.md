@@ -14,7 +14,8 @@ Download all STADs from STAD tab of your site on RFNSA. Press ctrl + A and ctrl 
 
 The output will be an excel file with the following information in separate sheets. 
 
-#### Add following antennas to Prox5
+#### Add following antennas to Prox5 and label them
+> you might want to set powers/frequencies to ports of each single antenna type before labelling them, so you can clone similar ones and then label it. 
 
 ![image](https://user-images.githubusercontent.com/45975234/235357719-79823532-c609-44f7-bf1c-d5261d48bf37.png)
 

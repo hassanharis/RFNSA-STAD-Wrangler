@@ -2,7 +2,7 @@
 
 # RFNSA
 
-A Python tool to wrangle antenna details from RFNSA STAD Table for easier and faster populating into EME compliance software with accuracy and transparency
+A Python tool to wrangle antenna details from RFNSA STAD Table for easier and faster populating into EME compliance software and EMEG Equipment List with accuracy and transparency saving you loads of work and massive amount of time.
 
 
 ## Example Input & Output

@@ -26,8 +26,10 @@ The output will be an excel file with the following information in separate shee
 
 #### Set powers and frequencies to antennas 
 
-![image](https://user-images.githubusercontent.com/45975234/235357560-e4df1854-674f-4018-a56e-0e08450a3c61.png)
+![image](https://user-images.githubusercontent.com/45975234/235824875-89d75006-5a90-4a48-bfa0-e449e48f34a0.png)
 
-#### EMEG Help
 
-![image](https://user-images.githubusercontent.com/45975234/235357476-b94a69d0-3337-4a54-8383-859dd0f647f8.png)
+#### EMEG Equipment List to set the ports and technologies
+
+![image](https://user-images.githubusercontent.com/45975234/235824606-97870655-710e-43a1-b7f2-aa1f54469fc8.png)
+

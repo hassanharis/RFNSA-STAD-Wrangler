@@ -17,12 +17,13 @@ The output will be an excel file with the following information in separate shee
 #### Add following antennas to Prox5 and label them
 > you might want to set powers/frequencies to ports of each single antenna type before labelling them, so you can clone similar ones and then label it. 
 
-![image](https://user-images.githubusercontent.com/45975234/235357719-79823532-c609-44f7-bf1c-d5261d48bf37.png)
+![image](https://user-images.githubusercontent.com/45975234/236609858-b07c11fa-7b7d-427a-a1ea-a542447a112b.png)
 
 
 #### Set height, bearing, and MDT to antennas 
 
-![image](https://user-images.githubusercontent.com/45975234/235357142-915ef181-5a49-4ebf-9588-e2342f3d7aed.png)
+![image](https://user-images.githubusercontent.com/45975234/236609872-f967d477-1382-4894-8921-1d124c2b57cc.png)
+
 
 #### Set powers and frequencies to antennas 
 

@@ -32,5 +32,5 @@ The output will be an excel file with the following information in separate shee
 
 #### EMEG Equipment List to set the ports and technologies
 
-![image](https://user-images.githubusercontent.com/45975234/235824606-97870655-710e-43a1-b7f2-aa1f54469fc8.png)
+![image](https://user-images.githubusercontent.com/45975234/236651780-5656e63f-604f-406f-8e73-df91c130e4b6.png)
 

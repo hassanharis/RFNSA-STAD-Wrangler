@@ -30,7 +30,7 @@ The output will be an excel file with the following information in separate shee
 ![image](https://user-images.githubusercontent.com/45975234/236652349-30b22881-5d79-4cdb-bb6e-208da8e9b445.png)
 
 
-#### EMEG Equipment List to set the ports and technologies
+#### EMEG "Equipment List": just copy following technologies/sector and power (W) of all antennas
 
 ![image](https://user-images.githubusercontent.com/45975234/236651854-aa1524db-d6a5-43a8-b650-6d133ac25dda.png)
 

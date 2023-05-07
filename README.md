@@ -8,7 +8,7 @@ A Python tool to wrangle antenna details from RFNSA STAD Table for easier and fa
 ## Example Input & Output
 
 ### Input
-Download all STADs from STAD tab of your site on RFNSA. Press ctrl + A and ctrl + C in text file, press ctrl + V in an excel sheet and save it. Replace excel sheet name and path in the script. Run All
+Click the "Download all STADs" on STAD tab of your site on RFNSA and you'll get a compressed txt file. Press ctrl + A and ctrl + C in text file, press ctrl + V in an excel sheet and save it. Replace excel sheet name and path in this python script. Run All
 
 ### Output
 
@@ -27,7 +27,7 @@ The output will be an excel file with the following information in separate shee
 
 #### Set powers and frequencies to antennas 
 
-![image](https://user-images.githubusercontent.com/45975234/235824875-89d75006-5a90-4a48-bfa0-e449e48f34a0.png)
+![image](https://user-images.githubusercontent.com/45975234/236652349-30b22881-5d79-4cdb-bb6e-208da8e9b445.png)
 
 
 #### EMEG Equipment List to set the ports and technologies

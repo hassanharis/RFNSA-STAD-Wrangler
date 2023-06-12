@@ -34,3 +34,9 @@ The output will be an excel file with the following information in separate shee
 
 ![image](https://user-images.githubusercontent.com/45975234/236651854-aa1524db-d6a5-43a8-b650-6d133ac25dda.png)
 
+#### License
+
+The source code and dataset are available under Creative Commons BY-NC 4.0 license by NAVER Corporation. You can use, copy, tranform and build upon the material for non-commercial purposes as long as you give appropriate credit by citing our paper, and indicate if changes were made.
+
+For technical and business inquiries, please contact hharis11@hotmail.com.
+

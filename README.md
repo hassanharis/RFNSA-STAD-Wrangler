@@ -32,6 +32,11 @@ The output will be an excel file with the following information in separate shee
 
 ![image](https://github.com/hassanharis/RFNSA-STAD-Wrangler/assets/45975234/4bce12d0-04c2-470a-81b0-e1dd1d995cf0)
 
+#### CANRAD: validate this CANRAD version of RFNSA with Telstra provided CANRAD 
+
+![image](https://github.com/hassanharis/RFNSA-STAD-Wrangler/assets/45975234/06dea5b6-b776-453a-a8f5-cffeef8c6830)
+
+
 #### License
 
 The source code and dataset are available under Creative Commons BY-NC 4.0 license by NAVER Corporation. You can use, copy, tranform and build upon the material for **non-commercial purposes** as long as you give appropriate credit by citing our paper, and indicate if changes were made.

@@ -10,6 +10,9 @@ A Python tool to wrangle antenna details from RFNSA STAD Table for easier and fa
 ### Input
 Click the "Download all STADs" on STAD tab of your site on RFNSA and you'll get a compressed txt file. Press ctrl + A and ctrl + C in text file, press ctrl + V in an excel sheet and save it. Replace excel sheet name and path in this python script. Run All
 
+![image](https://github.com/hassanharis/RFNSA-STAD-Wrangler/assets/45975234/36899273-67e1-422d-8a8f-c1f9560323dc)
+
+
 ### Output
 
 The output will be an excel file with the following information in separate sheets. 
